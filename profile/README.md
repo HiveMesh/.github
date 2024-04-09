@@ -1,13 +1,9 @@
 <p align="center">
-<img width="240px" alt="image" src="https://github.com/wasmate/.github/assets/34047788/65060690-035d-4968-8e8e-bd952b7dbcea">
+<img width="150px" alt="image" src="https://github.com/wasmate/.github/assets/34047788/65060690-035d-4968-8e8e-bd952b7dbcea">
 
 </p>
 
-
-
-# WASMate 🚀
-
-"WASMATE" is a future-proof, innovative project dedicated to taking application runtime environments to new heights. As a disruptive platform spanning the fields of Web2.0 and Web3.0, WASMATE not only provides an advanced WASM runtime environment, but also has impressive capabilities in building modern applications.
+**WASMATE** is a future-proof, innovative project dedicated to taking application runtime environments to new heights. As a disruptive platform spanning the fields of Web2.0 and Web3.0, WASMATE not only provides an advanced WASM runtime environment, but also has impressive capabilities in building modern applications.
 
 In the field of Web 2.0, WASMATE provides developers with easy access to cloud native environments and microservice middleware through a series of powerful functions such as low resource utilization, distributed system simplification, function-level inter-service calls, and state management. solution. You don’t need to worry about large-scale application transformation, WASMATE will guide you to the next stage of application development, unleash your creativity and help your business thrive.
 
