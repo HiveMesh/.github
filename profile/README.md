@@ -1,3 +1,10 @@
+<p align="center">
+<img width="240px" alt="image" src="https://github.com/wasmate/.github/assets/34047788/65060690-035d-4968-8e8e-bd952b7dbcea">
+
+</p>
+
+
+
 # WASMate 🚀
 
 "WASMATE" is a future-proof, innovative project dedicated to taking application runtime environments to new heights. As a disruptive platform spanning the fields of Web2.0 and Web3.0, WASMATE not only provides an advanced WASM runtime environment, but also has impressive capabilities in building modern applications.
