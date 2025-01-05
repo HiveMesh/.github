@@ -1,15 +1,14 @@
 <p align="center">
-<img width="150px" alt="image" src="https://github.com/wasmate/.github/assets/34047788/65060690-035d-4968-8e8e-bd952b7dbcea">
-
+<img width="150px" alt="image" src="https://github.com/user-attachments/assets/8973b2ea-c505-4f5f-b33f-f9573fa90157" style="border-radius: 10px;">
 </p>
 
-**WASMATE** is a future-proof, innovative project dedicated to taking application runtime environments to new heights. As a disruptive platform spanning the fields of Web2.0 and Web3.0, WASMATE not only provides an advanced WASM runtime environment, but also has impressive capabilities in building modern applications.
+**HiveMesh** is a future-proof, innovative project dedicated to taking application runtime environments to new heights. As a disruptive platform spanning the fields of Web2.0 and Web3.0, HiveMesh not only provides an advanced WASM runtime environment, but also has impressive capabilities in building modern applications.
 
-In the field of Web 2.0, WASMATE provides developers with easy access to cloud native environments and microservice middleware through a series of powerful functions such as low resource utilization, distributed system simplification, function-level inter-service calls, and state management. solution. You don’t need to worry about large-scale application transformation, WASMATE will guide you to the next stage of application development, unleash your creativity and help your business thrive.
+In the field of Web 2.0, HiveMesh provides developers with easy access to cloud native environments and microservice middleware through a series of powerful functions such as low resource utilization, distributed system simplification, function-level inter-service calls, and state management. solution. You don’t need to worry about large-scale application transformation, HiveMesh will guide you to the next stage of application development, unleash your creativity and help your business thrive.
 
-In the new era of Web3.0, WASMATE shows not only the evolution of technology, but also a brave exploration of the future. Functions such as decentralized storage, trusted computing, interaction with large AI models, decentralized identity verification, and cross-chain computing make WASMATE a leader in the Web3.0 environment. Not only is it closely integrated with the blockchain network, it can also easily cope with the complex needs of decentralized finance, identity verification and other fields, providing users with all-round, highly secure services.
+In the new era of Web3.0, HiveMesh shows not only the evolution of technology, but also a brave exploration of the future. Functions such as decentralized storage, trusted computing, interaction with large AI models, decentralized identity verification, and cross-chain computing make HiveMesh a leader in the Web3.0 environment. Not only is it closely integrated with the blockchain network, it can also easily cope with the complex needs of decentralized finance, identity verification and other fields, providing users with all-round, highly secure services.
 
-"WASMATE" is not only a technology platform, but also the embodiment of a vision to lead future innovation. Join WASMATE, let us explore the unknown together and build a more secure, efficient and innovative web application ecosystem. This is not only technological innovation, but also confidence and vision for the future.
+"HiveMesh" is not only a technology platform, but also the embodiment of a vision to lead future innovation. Join HiveMesh, let us explore the unknown together and build a more secure, efficient and innovative web application ecosystem. This is not only technological innovation, but also confidence and vision for the future.
 
 # Capacity
 
@@ -52,6 +51,6 @@ In the new era of Web3.0, WASMATE shows not only the evolution of technology, bu
 
 ## Join the Revolution
 
-**WASMATE** is more than just a technological platform; it's a visionary project leading towards future innovation. Join us in shaping a secure, efficient, and innovative web application ecosystem. Feel free to explore the project further on our [official website](https://www.wasmate.xyz/).
+**HiveMesh** is more than just a technological platform; it's a visionary project leading towards future innovation. Join us in shaping a secure, efficient, and innovative web application ecosystem. Feel free to explore the project further on our [official website](https://www.HiveMesh.xyz/).
 
-Let's revolutionize the way we build and deploy web applications with **WASMATE**!
+Let's revolutionize the way we build and deploy web applications with **HiveMesh**!
