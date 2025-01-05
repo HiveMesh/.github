@@ -1,5 +1,5 @@
 <p align="center">
-<img width="150px" alt="image" src="https://github.com/user-attachments/assets/8973b2ea-c505-4f5f-b33f-f9573fa90157" style="border-radius: 10px;">
+<img width="150px" alt="image" src="https://github.com/user-attachments/assets/ad8c443a-bbfb-4417-8ac7-0ad30f69eb72" style="border-radius: 10px;">
 </p>
 
 **HiveMesh** is a future-proof, innovative project dedicated to taking application runtime environments to new heights. As a disruptive platform spanning the fields of Web2.0 and Web3.0, HiveMesh not only provides an advanced WASM runtime environment, but also has impressive capabilities in building modern applications.
